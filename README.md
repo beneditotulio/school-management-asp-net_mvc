@@ -1,1 +1,1 @@
-# School Managemebt WEB APP 
+# School Management WEB APP 
